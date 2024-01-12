@@ -1,2 +1,0 @@
-# multiversx
-ID Multiversx
